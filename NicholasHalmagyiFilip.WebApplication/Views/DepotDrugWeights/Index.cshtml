@@ -1,0 +1,26 @@
+﻿@model List<Controllers.DepotDrugWeightViewModel>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Depot</th>
+            <th>Drug Type</th>
+            <th>Total Weight (kg)</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var depotDrugWeight in Model)
+        {
+            <tr>
+                <td>@depotDrugWeight.DepotName</td>
+                <td>@depotDrugWeight.DrugTypeName</td>
+                <td>@depotDrugWeight.TotalWeightKg.ToString("0.00")</td>
+            </tr>
+        }
+    </tbody>
+</table>

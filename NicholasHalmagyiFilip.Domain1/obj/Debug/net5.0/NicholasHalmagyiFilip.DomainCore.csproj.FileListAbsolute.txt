@@ -1,0 +1,15 @@
+C:\Users\Halmagyi Nicholas\source\repos\Dev Internship Sprint 1 Technical Exercise\NicholasHalmagyiFilip\NicholasHalmagyiFilip.Domain1\obj\Debug\net5.0\NicholasHalmagyiFilip.DomainCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Halmagyi Nicholas\source\repos\Dev Internship Sprint 1 Technical Exercise\NicholasHalmagyiFilip\NicholasHalmagyiFilip.Domain1\obj\Debug\net5.0\NicholasHalmagyiFilip.DomainCore.AssemblyInfoInputs.cache
+C:\Users\Halmagyi Nicholas\source\repos\Dev Internship Sprint 1 Technical Exercise\NicholasHalmagyiFilip\NicholasHalmagyiFilip.Domain1\obj\Debug\net5.0\NicholasHalmagyiFilip.DomainCore.AssemblyInfo.cs
+C:\Users\Halmagyi Nicholas\source\repos\Dev Internship Sprint 1 Technical Exercise\NicholasHalmagyiFilip\NicholasHalmagyiFilip.Domain1\obj\Debug\net5.0\NicholasHalmagyiFilip.DomainCore.csproj.CoreCompileInputs.cache
+C:\Users\Halmagyi Nicholas\source\repos\Dev Internship Sprint 1 Technical Exercise\NicholasHalmagyiFilip\NicholasHalmagyiFilip.Domain1\bin\Debug\net5.0\NicholasHalmagyiFilip.DomainCore.deps.json
+C:\Users\Halmagyi Nicholas\source\repos\Dev Internship Sprint 1 Technical Exercise\NicholasHalmagyiFilip\NicholasHalmagyiFilip.Domain1\bin\Debug\net5.0\NicholasHalmagyiFilip.DomainCore.dll
+C:\Users\Halmagyi Nicholas\source\repos\Dev Internship Sprint 1 Technical Exercise\NicholasHalmagyiFilip\NicholasHalmagyiFilip.Domain1\bin\Debug\net5.0\ref\NicholasHalmagyiFilip.DomainCore.dll
+C:\Users\Halmagyi Nicholas\source\repos\Dev Internship Sprint 1 Technical Exercise\NicholasHalmagyiFilip\NicholasHalmagyiFilip.Domain1\bin\Debug\net5.0\NicholasHalmagyiFilip.DomainCore.pdb
+C:\Users\Halmagyi Nicholas\source\repos\Dev Internship Sprint 1 Technical Exercise\NicholasHalmagyiFilip\NicholasHalmagyiFilip.Domain1\bin\Debug\net5.0\NicholasHalmagyiFilip.DataModelCore.dll
+C:\Users\Halmagyi Nicholas\source\repos\Dev Internship Sprint 1 Technical Exercise\NicholasHalmagyiFilip\NicholasHalmagyiFilip.Domain1\bin\Debug\net5.0\NicholasHalmagyiFilip.DataModelCore.pdb
+C:\Users\Halmagyi Nicholas\source\repos\Dev Internship Sprint 1 Technical Exercise\NicholasHalmagyiFilip\NicholasHalmagyiFilip.Domain1\obj\Debug\net5.0\NicholasHalmagyiFilip.DomainCore.csproj.AssemblyReference.cache
+C:\Users\Halmagyi Nicholas\source\repos\Dev Internship Sprint 1 Technical Exercise\NicholasHalmagyiFilip\NicholasHalmagyiFilip.Domain1\obj\Debug\net5.0\NicholasHalmagyiFilip.DomainCore.csproj.CopyComplete
+C:\Users\Halmagyi Nicholas\source\repos\Dev Internship Sprint 1 Technical Exercise\NicholasHalmagyiFilip\NicholasHalmagyiFilip.Domain1\obj\Debug\net5.0\NicholasHalmagyiFilip.DomainCore.dll
+C:\Users\Halmagyi Nicholas\source\repos\Dev Internship Sprint 1 Technical Exercise\NicholasHalmagyiFilip\NicholasHalmagyiFilip.Domain1\obj\Debug\net5.0\ref\NicholasHalmagyiFilip.DomainCore.dll
+C:\Users\Halmagyi Nicholas\source\repos\Dev Internship Sprint 1 Technical Exercise\NicholasHalmagyiFilip\NicholasHalmagyiFilip.Domain1\obj\Debug\net5.0\NicholasHalmagyiFilip.DomainCore.pdb

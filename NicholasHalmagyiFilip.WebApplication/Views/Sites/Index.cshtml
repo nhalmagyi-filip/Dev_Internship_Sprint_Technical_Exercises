@@ -1,0 +1,41 @@
+﻿@model IEnumerable<NicholasHalmagyiFilip.DataModelCore.Models.Site>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.SiteId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SiteName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Country)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.SiteId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SiteName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Country.CountryName)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.SiteId">Request Drugs</a> 
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

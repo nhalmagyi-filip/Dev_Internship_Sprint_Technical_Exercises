@@ -1,0 +1,46 @@
+﻿@model List<NicholasHalmagyiFilip.DomainCore.CorrelationService.DepotCorrelationResult>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<style>
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+    th, td {
+        padding: 10px;
+        text-align: left;
+        border-bottom: 1px solid black;
+    }
+
+    th {
+        font-weight: bold;
+    }
+</style>
+
+<table>
+    <thead>
+        <tr>
+            <th>Depot Name</th>
+            <th>Country Name</th>
+            <th>Drug Type Name</th>
+            <th>Drug Unit Id</th>
+            <th>Pick Number</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.DepotName)</td>
+                <td>@Html.DisplayFor(modelItem => item.CountryName)</td>
+                <td>@Html.DisplayFor(modelItem => item.DrugTypeName)</td>
+                <td>@Html.DisplayFor(modelItem => item.DrugUnitId)</td>
+                <td>@Html.DisplayFor(modelItem => item.PickNumber)</td>
+            </tr>
+        }
+    </tbody>
+</table>

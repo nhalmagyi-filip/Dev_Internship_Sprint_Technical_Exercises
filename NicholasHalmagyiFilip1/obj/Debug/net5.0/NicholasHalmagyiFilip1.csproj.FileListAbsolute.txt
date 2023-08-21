@@ -1,0 +1,16 @@
+C:\Users\Halmagyi Nicholas\source\repos\Dev Internship Sprint 1 Technical Exercise\NicholasHalmagyiFilip\NicholasHalmagyiFilip1\bin\Debug\net5.0\NicholasHalmagyiFilip1.exe
+C:\Users\Halmagyi Nicholas\source\repos\Dev Internship Sprint 1 Technical Exercise\NicholasHalmagyiFilip\NicholasHalmagyiFilip1\bin\Debug\net5.0\NicholasHalmagyiFilip1.deps.json
+C:\Users\Halmagyi Nicholas\source\repos\Dev Internship Sprint 1 Technical Exercise\NicholasHalmagyiFilip\NicholasHalmagyiFilip1\bin\Debug\net5.0\NicholasHalmagyiFilip1.runtimeconfig.json
+C:\Users\Halmagyi Nicholas\source\repos\Dev Internship Sprint 1 Technical Exercise\NicholasHalmagyiFilip\NicholasHalmagyiFilip1\bin\Debug\net5.0\NicholasHalmagyiFilip1.runtimeconfig.dev.json
+C:\Users\Halmagyi Nicholas\source\repos\Dev Internship Sprint 1 Technical Exercise\NicholasHalmagyiFilip\NicholasHalmagyiFilip1\bin\Debug\net5.0\NicholasHalmagyiFilip1.dll
+C:\Users\Halmagyi Nicholas\source\repos\Dev Internship Sprint 1 Technical Exercise\NicholasHalmagyiFilip\NicholasHalmagyiFilip1\bin\Debug\net5.0\ref\NicholasHalmagyiFilip1.dll
+C:\Users\Halmagyi Nicholas\source\repos\Dev Internship Sprint 1 Technical Exercise\NicholasHalmagyiFilip\NicholasHalmagyiFilip1\bin\Debug\net5.0\NicholasHalmagyiFilip1.pdb
+C:\Users\Halmagyi Nicholas\source\repos\Dev Internship Sprint 1 Technical Exercise\NicholasHalmagyiFilip\NicholasHalmagyiFilip1\obj\Debug\net5.0\NicholasHalmagyiFilip1.csproj.AssemblyReference.cache
+C:\Users\Halmagyi Nicholas\source\repos\Dev Internship Sprint 1 Technical Exercise\NicholasHalmagyiFilip\NicholasHalmagyiFilip1\obj\Debug\net5.0\NicholasHalmagyiFilip1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Halmagyi Nicholas\source\repos\Dev Internship Sprint 1 Technical Exercise\NicholasHalmagyiFilip\NicholasHalmagyiFilip1\obj\Debug\net5.0\NicholasHalmagyiFilip1.AssemblyInfoInputs.cache
+C:\Users\Halmagyi Nicholas\source\repos\Dev Internship Sprint 1 Technical Exercise\NicholasHalmagyiFilip\NicholasHalmagyiFilip1\obj\Debug\net5.0\NicholasHalmagyiFilip1.AssemblyInfo.cs
+C:\Users\Halmagyi Nicholas\source\repos\Dev Internship Sprint 1 Technical Exercise\NicholasHalmagyiFilip\NicholasHalmagyiFilip1\obj\Debug\net5.0\NicholasHalmagyiFilip1.csproj.CoreCompileInputs.cache
+C:\Users\Halmagyi Nicholas\source\repos\Dev Internship Sprint 1 Technical Exercise\NicholasHalmagyiFilip\NicholasHalmagyiFilip1\obj\Debug\net5.0\NicholasHalmagyiFilip1.dll
+C:\Users\Halmagyi Nicholas\source\repos\Dev Internship Sprint 1 Technical Exercise\NicholasHalmagyiFilip\NicholasHalmagyiFilip1\obj\Debug\net5.0\ref\NicholasHalmagyiFilip1.dll
+C:\Users\Halmagyi Nicholas\source\repos\Dev Internship Sprint 1 Technical Exercise\NicholasHalmagyiFilip\NicholasHalmagyiFilip1\obj\Debug\net5.0\NicholasHalmagyiFilip1.pdb
+C:\Users\Halmagyi Nicholas\source\repos\Dev Internship Sprint 1 Technical Exercise\NicholasHalmagyiFilip\NicholasHalmagyiFilip1\obj\Debug\net5.0\NicholasHalmagyiFilip1.genruntimeconfig.cache

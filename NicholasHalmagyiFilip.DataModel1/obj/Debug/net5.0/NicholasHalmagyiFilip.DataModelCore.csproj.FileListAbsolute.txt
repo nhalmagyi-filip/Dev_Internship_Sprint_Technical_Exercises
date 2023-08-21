@@ -1,0 +1,12 @@
+C:\Users\Halmagyi Nicholas\source\repos\Dev Internship Sprint 1 Technical Exercise\NicholasHalmagyiFilip\NicholasHalmagyiFilip.DataModel1\obj\Debug\net5.0\NicholasHalmagyiFilip.DataModelCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Halmagyi Nicholas\source\repos\Dev Internship Sprint 1 Technical Exercise\NicholasHalmagyiFilip\NicholasHalmagyiFilip.DataModel1\obj\Debug\net5.0\NicholasHalmagyiFilip.DataModelCore.AssemblyInfoInputs.cache
+C:\Users\Halmagyi Nicholas\source\repos\Dev Internship Sprint 1 Technical Exercise\NicholasHalmagyiFilip\NicholasHalmagyiFilip.DataModel1\obj\Debug\net5.0\NicholasHalmagyiFilip.DataModelCore.AssemblyInfo.cs
+C:\Users\Halmagyi Nicholas\source\repos\Dev Internship Sprint 1 Technical Exercise\NicholasHalmagyiFilip\NicholasHalmagyiFilip.DataModel1\obj\Debug\net5.0\NicholasHalmagyiFilip.DataModelCore.csproj.CoreCompileInputs.cache
+C:\Users\Halmagyi Nicholas\source\repos\Dev Internship Sprint 1 Technical Exercise\NicholasHalmagyiFilip\NicholasHalmagyiFilip.DataModel1\bin\Debug\net5.0\NicholasHalmagyiFilip.DataModelCore.deps.json
+C:\Users\Halmagyi Nicholas\source\repos\Dev Internship Sprint 1 Technical Exercise\NicholasHalmagyiFilip\NicholasHalmagyiFilip.DataModel1\bin\Debug\net5.0\NicholasHalmagyiFilip.DataModelCore.dll
+C:\Users\Halmagyi Nicholas\source\repos\Dev Internship Sprint 1 Technical Exercise\NicholasHalmagyiFilip\NicholasHalmagyiFilip.DataModel1\bin\Debug\net5.0\ref\NicholasHalmagyiFilip.DataModelCore.dll
+C:\Users\Halmagyi Nicholas\source\repos\Dev Internship Sprint 1 Technical Exercise\NicholasHalmagyiFilip\NicholasHalmagyiFilip.DataModel1\bin\Debug\net5.0\NicholasHalmagyiFilip.DataModelCore.pdb
+C:\Users\Halmagyi Nicholas\source\repos\Dev Internship Sprint 1 Technical Exercise\NicholasHalmagyiFilip\NicholasHalmagyiFilip.DataModel1\obj\Debug\net5.0\NicholasHalmagyiFilip.DataModelCore.csproj.AssemblyReference.cache
+C:\Users\Halmagyi Nicholas\source\repos\Dev Internship Sprint 1 Technical Exercise\NicholasHalmagyiFilip\NicholasHalmagyiFilip.DataModel1\obj\Debug\net5.0\NicholasHalmagyiFilip.DataModelCore.dll
+C:\Users\Halmagyi Nicholas\source\repos\Dev Internship Sprint 1 Technical Exercise\NicholasHalmagyiFilip\NicholasHalmagyiFilip.DataModel1\obj\Debug\net5.0\ref\NicholasHalmagyiFilip.DataModelCore.dll
+C:\Users\Halmagyi Nicholas\source\repos\Dev Internship Sprint 1 Technical Exercise\NicholasHalmagyiFilip\NicholasHalmagyiFilip.DataModel1\obj\Debug\net5.0\NicholasHalmagyiFilip.DataModelCore.pdb

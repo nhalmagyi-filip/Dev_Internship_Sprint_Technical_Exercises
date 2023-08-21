@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NicholasHalmagyiFilip.DataModel1\NicholasHalmagyiFilip.DataModelCore.csproj" />
+    <ProjectReference Include="..\NicholasHalmagyiFilip.Domain1\NicholasHalmagyiFilip.DomainCore.csproj" />
+  </ItemGroup>
+
+</Project>

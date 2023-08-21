@@ -1,0 +1,44 @@
+﻿@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+    var message = TempData["Message"] as string;
+}
+
+@if (!string.IsNullOrEmpty(message))
+{
+    <div class="alert alert-success">@message</div>
+}
+
+<form asp-controller="DepotInventory" asp-action="AssociateDrugs" method="post">
+    <h4>Associate Drugs</h4>
+    <div class="form-group">
+        <label for="depotId">Depot ID:</label>
+        <input type="text" class="form-control" name="depotId" />
+    </div>
+    <div class="form-group">
+        <label for="startPickNumber">Start Pick Number:</label>
+        <input type="number" class="form-control" name="startPickNumber" />
+    </div>
+    <div class="form-group">
+        <label for="endPickNumber">End Pick Number:</label>
+        <input type="number" class="form-control" name="endPickNumber" />
+    </div>
+    <button type="submit" class="btn btn-primary">Associate</button>
+</form>
+
+<br>
+<br>
+<br>
+
+<form asp-controller="DepotInventory" asp-action="DisassociateDrugs" method="post">
+    <h4>Disassociate Drugs</h4>
+    <div class="form-group">
+        <label for="startPickNumber">Start Pick Number:</label>
+        <input type="number" class="form-control" name="startPickNumber" />
+    </div>
+    <div class="form-group">
+        <label for="endPickNumber">End Pick Number:</label>
+        <input type="number" class="form-control" name="endPickNumber" />
+    </div>
+    <button type="submit" class="btn btn-danger">Disassociate</button>
+</form>

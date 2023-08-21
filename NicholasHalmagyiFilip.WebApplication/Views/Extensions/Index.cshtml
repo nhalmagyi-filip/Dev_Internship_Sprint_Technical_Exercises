@@ -1,0 +1,58 @@
+﻿@model Dictionary<string, List<NicholasHalmagyiFilip.DataModelCore.Models.DrugUnit>>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<style>
+    .table-container {
+        display: flex;
+    }
+
+    .table-wrapper {
+        flex: 1;
+        padding: 10px;
+    }
+
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+    th, td {
+        border: 1px solid black;
+        padding: 8px;
+        text-align: left;
+    }
+
+    th {
+        background-color: #f2f2f2;
+    }
+</style>
+
+<div class="table-container">
+    @foreach (var item in Model)
+    {
+        <div class="table-wrapper">
+            <h3>@item.Key</h3>
+            <table>
+                <tr>
+                    <th>Drug Unit ID</th>
+                    <th>Pick Number</th>
+                    <th>Depot ID</th>
+                    <th>Drug Type ID</th>
+                </tr>
+                @foreach (var drugUnit in item.Value)
+                {
+                    <tr>
+                        <td>@drugUnit.DrugUnitId</td>
+                        <td>@drugUnit.DrugUnitPickNumber</td>
+                        <td>@drugUnit.DrugUnitDepotId</td>
+                        <td>@drugUnit.DrugUnitDrugTypeId</td>
+                    </tr>
+                }
+            </table>
+        </div>
+    }
+</div>
